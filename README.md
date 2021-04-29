@@ -46,6 +46,6 @@ $ python tcp_socket_server.py
 クライアント起動
 
 ```
-$ python tcp_socket_server.py
+$ python tcp_socket_client.py
 ```
 
